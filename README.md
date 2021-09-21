@@ -5,6 +5,8 @@ CIS 3296
 
 ### Project Proposal
 
+![Image of UML Diagram](https://github.com/valeriekeolam/TempleCatsSite/blob/main/ProposalUML.drawio.png)
+
 #### Description
 For the project, I am proposing the creation of a website for Temple Cats. Temple Cats is a small TNR rescue around Temple’s main campus, with approximately 16 colony locations for feral cats. The website should be an introduction to students of the colonies. The homepage will contain squares of active slideshows of the colony cats at each location. The active squares however, are also embedded hyperlinks, and when clicked, will take the user to a dedicated page for the colony, showing images of all the cats at the location (current, previous, and rehomed). Current cats will appear first, previous cats that have been rehomed or passed will be at the bottom. Alternatively, there could be a “kitty graveyard” type area of the website that contains all cats who have passed or been adopted. The location of noncurrent colony cats has yet to be decided. The dedicated colony pages will also have links to a wishlist/active donation links, so viewers can make donations, or alternatively, buy cat supplies straight out. However, the site needs a way to be updated weekly. Each colony page will have dedicated weekly updates, with status of the cats, as well as new images. 
 The website is also meant to be a resource for Temple students who want to get cats, and there needs to be a way to allow large amounts of information. Although an FAQ makes sense, there may simply be too many questions and therefore potentially improbable. Some miscellaneous information (structure hasn’t been decided yet) that needs to be included is:
